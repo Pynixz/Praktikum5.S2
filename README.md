@@ -7,7 +7,7 @@ CREATE TABLE Dosen (
     kd_ds VARCHAR(5) PRIMARY KEY,
     nama VARCHAR(50)
 );
-
+```
 -- Membuat Tabel MataKuliah
 CREATE TABLE MataKuliah (
     kd_mk VARCHAR(5) PRIMARY KEY,
